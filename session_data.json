@@ -1,0 +1,106 @@
+{
+  "local_storage": {
+    "atefm6@outlook.com": "beeb9a22c372545fd53db5cc7d4aea701d775d6130afb2fcb04b3ada7ccb6f3427b0745e7829e1070eb10b58985c609933c67c15ac584c94165957fbf62daddc",
+    "beeb9a22c372545fd53db5cc7d4aea701d775d6130afb2fcb04b3ada7ccb6f3427b0745e7829e1070eb10b58985c609933c67c15ac584c94165957fbf62daddc": "ZLbUnmyN1Moewpon5cZCd3KTabtlZQoV,",
+    "clear": {},
+    "getItem": {},
+    "key": {},
+    "latestSuccessLogin": "null",
+    "length": 5,
+    "loginInvisible": "undefined",
+    "offlineLoginDisplay": "atefm6@outlook.com",
+    "removeItem": {},
+    "setItem": {}
+  },
+
+  "cookies": [
+    {
+      "domain": "signin.ea.com",
+      "expiry": 1728937584,
+      "httpOnly": true,
+      "name": "weblastlogin",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "emailPassword"
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1762892784,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.1.300932409.1728332778"
+    },
+    {
+      "domain": "signin.ea.com",
+      "httpOnly": true,
+      "name": "signin-cookie",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "\"490eeb0e4f0930b5\""
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1728339977,
+      "httpOnly": false,
+      "name": "ak_bmsc",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "7EFF6B27B19C096FBC5C9AFBCCDB2DC0~000000000000000000000000000000~YAAQhkvHFzXKlGeSAQAAZU6paBmVKnoMJgE6TLCgwRJaHuxAB0O5P1KDVZfxDiyZzfiBszXEY0T1rJ3xUjlZDGNMOLXKwzKpVpdzP7cSQNJFiprB9QgGAM6w3LkYlxSIZ1dKMZpHDCbeq/1t05LV+bovBV49SID3AxFDBtsXhFhyWpTTJaAc1RJk8gyRZbCzUKHdNYPueo0foueAQGPdyaQE9vkLrDhFAL6OiHiqvDVXoYaqejAzj6pJp7E05GOQtNJavgRJWpKOsSGIvaPbrCqv3vk14eW0UhSO4RymowRt+0IoKph8X6TJ2zs56mmRb4a8cTJSN730PKFkZcNCwtGLzz4MJcPANAEs8UvSLrfXGLgj+p1uUNGFjyQNBI1YELrjGT1Nvsye63VMkGib2plShdA28Lw+CzXFaEQRPNlWp9ARHkeQScsDgSqyOiyx322aMUMsqFa3hiT1VVjfNQrcem1xh0LLtwqVdTZfu+Y1Dbb/XvCGIHE="
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1762892784,
+      "httpOnly": false,
+      "name": "_ga_FG7BL3H7V8",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GS1.1.1728332783.1.1.1728332784.0.0.0"
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1728333379,
+      "httpOnly": false,
+      "name": "_gat",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1728339977,
+      "httpOnly": false,
+      "name": "bm_sv",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "A17CB8880392C3117CF2FB2C6F096EA6~YAAQhkvHFy/KlGeSAQAAPE2paBkfrHeSF+OIWZt+PCGEaQb6MZwy1vOkjoGhNH6kXKh+3dw6G1SMRyAkginMu1cu6U0dQZEoy01PkYH77p/gv55phk/8mo2QhqHmGaVXZWCY4mQOuNkNZvwnZXO6u73iwxtD1EJY3vFbbQe/YGpLjyc6xJDEUT99eaUKRRGcIoNe2YQkrG67m3ZX14OOIxwmvV9hlF6a4ZbE3ds7mBYC31Ez2Vj/RASh+fk=~1"
+    },
+    {
+      "domain": ".ea.com",
+      "expiry": 1759868777,
+      "httpOnly": false,
+      "name": "ealocale",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "en-gb"
+    },
+    {
+      "domain": "signin.ea.com",
+      "httpOnly": true,
+      "name": "JSESSIONID",
+      "path": "/p",
+      "sameSite": "None",
+      "secure": true,
+      "value": "58BB230A3D17B1D2BE2A9026DD4725D2.prdaccounts-use1-70"
+    }
+  ]
+}
